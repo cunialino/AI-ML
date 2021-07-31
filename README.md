@@ -1,5 +1,5 @@
-# AI-ML
-Collection of various algorithms with code and (maybe) data. 
-Each algo has its own branch, so I don't need 20 repos.
+# Ensemble methods
+In this branch we will store a variety of ensembles methods
 
-# List of available algorithms
+# List of methods:
+* random forests
